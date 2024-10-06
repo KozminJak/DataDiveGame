@@ -7,7 +7,7 @@ Průběh hry - Kolo za kolem
 1. Kolo: Příprava hry
 Hacker:
 
-Hacker si stáhne soubor červené vlajky (např. red_flag.md).
+Hacker si stáhne soubor červené vlajky (např. red_flag.jpg).
 Tento soubor ukryje do jedné ze složek v hlavní složce "herní pole".
 Jakmile je vlajka ukryta, hacker napíše první nápovědu do sekce Issues, která bude detektivům naznačovat, kde malware může, nebo naopak nemůže být. Např.:
 bash
