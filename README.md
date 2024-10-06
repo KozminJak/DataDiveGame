@@ -14,6 +14,7 @@ bash
 Zkopírovat kód
 // Nápověda 1:
 Malware není ve složkách, které začínají písmenem "S".
+
 Kyberdetektivové:
 
 Detektivové si stáhnou soubor detektivní vlajky (green-flag.jpg).
