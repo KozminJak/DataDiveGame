@@ -7,7 +7,7 @@ Průběh hry - Kolo za kolem
 1. Kolo: Příprava hry
 Hacker:
 
-Hacker si stáhne soubor červené vlajky (např. red_flag.jpg).
+Hacker si stáhne soubor červené vlajky (red-flag.jpg).
 Tento soubor ukryje do jedné ze složek v hlavní složce "herní pole".
 Jakmile je vlajka ukryta, hacker napíše první nápovědu do sekce Issues, která bude detektivům naznačovat, kde malware může, nebo naopak nemůže být. Např.:
 bash
@@ -16,7 +16,7 @@ Zkopírovat kód
 Malware není ve složkách, které začínají písmenem "S".
 Kyberdetektivové:
 
-Detektivové si stáhnou soubor detektivní vlajky (např. detective_flag.md).
+Detektivové si stáhnou soubor detektivní vlajky (green-flag.jpg).
 Na začátku každého kola každý detektiv přejmenuje vlajku podle čísla kola (např. 1_flag.md pro první kolo).
 Detektivové se podívají na nápovědu od hackera a na základě ní umístí vlajku do složky, kde si myslí, že je malware.
 Jakmile detektiv umístí vlajku, jde do sekce Issues a napíše pouze "Hotovo", což znamená, že svůj tah dokončil.
