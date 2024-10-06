@@ -11,7 +11,7 @@ Tento soubor ukryje do jedné ze složek v hlavní složce "herní pole".
 Jakmile je vlajka ukryta, hacker napíše první nápovědu do sekce Issues, která bude detektivům naznačovat, kde malware může, nebo naopak nemůže být. Např.:
 bash
 Zkopírovat kód
-# Nápověda 1:
+//Nápověda 1:
 Malware není ve složkách, které začínají písmenem "S".
 Kyberdetektivové:
 
