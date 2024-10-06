@@ -1,6 +1,8 @@
-🅳🅰🆃🅰 🅳🅸🆅🅴
+#🅳🅰🆃🅰 🅳🅸🆅🅴
 
 Vstup do digitálního světa, kde tajemství čeká pod povrchem kódů! V Data Dive se jeden z hráčů stává hackerským mistrem, který ukrývá nebezpečný malware hluboko ve virtuálních složkách. Ostatní hráči jsou elitní kybernetičtí detektivové, kteří se ho snaží vystopovat pomocí sofistikovaných nápověd a pečlivého odhadu. V každém kole označují svými vlaječkami místa, kde podle nich malware číhá. Jen ten nejrychlejší a nejchytřejší detektiv odhalí pravou skrýš a zachrání digitální svět! Buď první, kdo lokalizuje malware, a staň se hrdinou v boji proti kybernetickým hrozbám!
+
+Průběh hry - Kolo za kolem
 
 1. Kolo: Příprava hry
 Hacker:
@@ -10,7 +12,7 @@ Tento soubor ukryje do jedné ze složek v hlavní složce "herní pole".
 Jakmile je vlajka ukryta, hacker napíše první nápovědu do sekce Issues, která bude detektivům naznačovat, kde malware může, nebo naopak nemůže být. Např.:
 bash
 Zkopírovat kód
-# Nápověda 1:
+// Nápověda 1:
 Malware není ve složkách, které začínají písmenem "S".
 Kyberdetektivové:
 
